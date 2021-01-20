@@ -6,7 +6,9 @@ Multi-purpose static website template that could be customized for a business, w
 
 **Student ID:** 000755771
 
-**Link to Repo:**
+**Link to Repo:** https://github.com/swappnasama/cpnt201-a1-multi-purpose-template.git
+
+**Link to site:** https://swappnasama.github.io/cpnt201-a1-multi-purpose-template/
 
 # Credits:
 
